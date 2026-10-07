@@ -1,0 +1,896 @@
+{
+  "schema_version": "2.0",
+  "circuit": "heisenberg_8.qasm",
+  "feature_level": "expanded",
+  "nodes": [
+    {
+      "qubit": 0,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 1,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 2,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 3,
+      "active": true,
+      "gate_count": 811,
+      "one_qubit_gate_count": 571,
+      "two_qubit_gate_count": 240
+    },
+    {
+      "qubit": 4,
+      "active": true,
+      "gate_count": 715,
+      "one_qubit_gate_count": 235,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 5,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 6,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 7,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 8,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 9,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 10,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 11,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 12,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 13,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 14,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 15,
+      "active": true,
+      "gate_count": 1121,
+      "one_qubit_gate_count": 641,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 16,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 17,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 18,
+      "active": true,
+      "gate_count": 390,
+      "one_qubit_gate_count": 150,
+      "two_qubit_gate_count": 240
+    },
+    {
+      "qubit": 19,
+      "active": true,
+      "gate_count": 1561,
+      "one_qubit_gate_count": 1081,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 20,
+      "active": true,
+      "gate_count": 1122,
+      "one_qubit_gate_count": 642,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 21,
+      "active": true,
+      "gate_count": 714,
+      "one_qubit_gate_count": 234,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 22,
+      "active": true,
+      "gate_count": 1573,
+      "one_qubit_gate_count": 1093,
+      "two_qubit_gate_count": 480
+    },
+    {
+      "qubit": 23,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 24,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 25,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 26,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 27,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 28,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 29,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 30,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 31,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 32,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 33,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 34,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 35,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 36,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 37,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 38,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 39,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 40,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 41,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 42,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 43,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 44,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 45,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 46,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 47,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 48,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 49,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 50,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 51,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 52,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 53,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 54,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 55,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 56,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 57,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 58,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 59,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 60,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 61,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 62,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 63,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 64,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 65,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 66,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 67,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 68,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 69,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 70,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 71,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 72,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 73,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 74,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 75,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 76,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 77,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 78,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 79,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 80,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 81,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 82,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 83,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 84,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 85,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 86,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 87,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 88,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 89,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 90,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 91,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 92,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 93,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 94,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 95,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 96,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 97,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 98,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 99,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 100,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 101,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 102,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 103,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 104,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 105,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 106,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 107,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 108,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 109,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 110,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 111,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 112,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 113,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 114,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 115,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 116,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 117,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 118,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 119,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 120,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 121,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 122,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 123,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 124,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 125,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    },
+    {
+      "qubit": 126,
+      "active": false,
+      "gate_count": 0,
+      "one_qubit_gate_count": 0,
+      "two_qubit_gate_count": 0
+    }
+  ]
+}

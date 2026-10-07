@@ -1,0 +1,17 @@
+{
+  "schema_version": "2.0",
+  "circuit": "heisenberg_8.qasm",
+  "feature_level": "expanded",
+  "rewrite_rule_counts": {},
+  "rewrite_event_count": 0,
+  "rewrite_estimated_gate_reduction": 0,
+  "rewrite_opportunity_density": 0.0,
+  "rz_fusion_count": 0,
+  "x_x_cancellation_count": 0,
+  "h_h_cancellation_count": 0,
+  "sx_sx_to_x_count": 0,
+  "sx_x_sx_cancellation_count": 0,
+  "x_sx_x_to_sx_count": 0,
+  "rewrite_parameter_abs_reduction": 0.0,
+  "rewrite_events": []
+}
